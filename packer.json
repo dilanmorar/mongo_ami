@@ -3,8 +3,8 @@
     "ami_name": "mongo-{{timestamp}}",
 
     "type": "amazon-ebs",
-    "access_key": "AKIAIJ2YQUD4NCNOJHUA",
-    "secret_key": "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",
+    "access_key": "",
+    "secret_key": "",
     "associate_public_ip_address": "true",
 
     "ssh_keypair_name": "dilan-aws",
